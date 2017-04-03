@@ -5,9 +5,13 @@ Code has been tested on Arduino Uno and Nano.
 
 # Circuit Connection
 Pulse sensor Out to Arduino A0
+
 OLED SCL to Arduino A5
+
 OLED SDA to Arduino A4
+
 VCC to +5v
+
 Gnd to Gnd
 
 # Credits
